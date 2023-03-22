@@ -11,3 +11,14 @@ Em seu terminal, rode:
 1. `cd blog-cypress-demo-run-time`
 1. `npm i`
 1. `npm run cy:run:all`
+
+## Importante
+Neste projeto não serão priorizadas as boas práticas de automação de testes já que o objetivo é demonstrar as vantagens do Playwright em situações isoladas.
+
+## Estudos complementares
+
+- Palestra sobre [Playwright](https://youtube.com/watch?v=eJ6V1de9nHY) do [Stefan Teixeira](https://linkedin.com/in/stefanteixeira/) no [Minas Testing Conference](https://minastestingconference.com.br/) 2022
+
+- Cursos de [Cypress](https://talkingabouttesting.com/) do [Walmyr Filho](https://www.linkedin.com/in/walmyr-lima-e-silva-filho/)
+
+- Cursos de [Playwright](https://testingwithrenata.com/trainings/) da [Renata Andrade](https://www.linkedin.com/in/raptatinha/)
