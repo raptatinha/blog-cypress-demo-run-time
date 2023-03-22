@@ -7,7 +7,7 @@ By https://testingwithrenata.com/
 ## Configuração e execução do projeto
 
 Em seu terminal, rode:
-1. `git clone https://github.com/raptatinha/blog-cypress-demo-run-time.git`;
-1. `cd blog-cypress-demo-run-time`;
-1. `npm i`;
-1. `npm run cy:run:all`;
+1. `git clone https://github.com/raptatinha/blog-cypress-demo-run-time.git`
+1. `cd blog-cypress-demo-run-time`
+1. `npm i`
+1. `npm run cy:run:all`
