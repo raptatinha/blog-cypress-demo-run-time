@@ -4,9 +4,9 @@ Repositório de exemplo para o artigo [Playwright - vantagens e comparação ao 
 
 By https://testingwithrenata.com/
 
-Cypress v12.8.1
-Node v19.8.1
-npm v9.5.1
+- Cypress v12.8.1
+- Node v19.8.1
+- npm v9.5.1
 
 ## Configuração e execução do projeto
 
